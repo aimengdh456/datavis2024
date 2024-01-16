@@ -1,3 +1,3 @@
 # datavis2024
-Aimen GUIDOUCHE
+Aimen GUIDOUCHE &
 Anas ELYASSAI
